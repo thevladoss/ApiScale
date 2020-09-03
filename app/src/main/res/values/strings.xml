@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ApiScale</string>
+    <string name="title_home">Главная</string>
+    <string name="title_graph">Графики</string>
+    <string name="title_settings">Настройки</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
