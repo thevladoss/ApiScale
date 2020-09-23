@@ -1,4 +1,4 @@
-package su.paradox.studio.apiscale.ui.home
+package ru.paradox.studio.apiscale.ui.home
 
 import android.annotation.SuppressLint
 import android.content.ContentResolver
@@ -12,8 +12,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import kotlinx.android.synthetic.main.fragment_home.view.*
-import su.paradox.studio.apiscale.MainActivity
-import su.paradox.studio.apiscale.R
+import ru.paradox.studio.apiscale.R
 import java.lang.Exception
 import kotlin.math.roundToInt
 

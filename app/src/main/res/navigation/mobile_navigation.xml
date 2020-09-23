@@ -7,19 +7,19 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="su.paradox.studio.apiscale.ui.home.HomeFragment"
+        android:name="ru.paradox.studio.apiscale.ui.home.HomeFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_graph"
-        android:name="su.paradox.studio.apiscale.ui.graph.GraphFragment"
+        android:name="ru.paradox.studio.apiscale.ui.graph.GraphFragment"
         android:label="@string/title_graph"
         tools:layout="@layout/fragment_graph" />
 
     <fragment
         android:id="@+id/navigation_settings"
-        android:name="su.paradox.studio.apiscale.ui.settings.SettingsFragment"
+        android:name="ru.paradox.studio.apiscale.ui.settings.SettingsFragment"
         android:label="@string/title_settings"
         tools:layout="@layout/fragment_settings" />
 </navigation>

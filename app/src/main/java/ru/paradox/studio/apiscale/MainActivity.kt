@@ -1,4 +1,4 @@
-package su.paradox.studio.apiscale
+package ru.paradox.studio.apiscale
 
 import android.content.Intent
 import android.content.SharedPreferences

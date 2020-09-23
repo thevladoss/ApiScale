@@ -1,4 +1,4 @@
-package su.paradox.studio.apiscale
+package ru.paradox.studio.apiscale
 
 class Data(
     var dateYear: String,

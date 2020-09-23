@@ -1,4 +1,4 @@
-package su.paradox.studio.apiscale
+package ru.paradox.studio.apiscale
 
 import android.content.SharedPreferences
 import android.os.Bundle

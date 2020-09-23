@@ -1,4 +1,4 @@
-package su.paradox.studio.apiscale.ui.settings
+package ru.paradox.studio.apiscale.ui.settings
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -12,8 +12,8 @@ import android.view.ViewGroup
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import kotlinx.android.synthetic.main.fragment_settings.view.*
-import su.paradox.studio.apiscale.MainActivity
-import su.paradox.studio.apiscale.R
+import ru.paradox.studio.apiscale.MainActivity
+import ru.paradox.studio.apiscale.R
 import java.util.regex.Pattern
 import kotlin.toString as toString
 

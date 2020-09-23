@@ -1,4 +1,4 @@
-package su.paradox.studio.apiscale.ui.graph
+package ru.paradox.studio.apiscale.ui.graph
 
 import android.content.ContentResolver
 import android.content.Intent
@@ -13,10 +13,10 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import com.google.android.material.datepicker.MaterialDatePicker
 import kotlinx.android.synthetic.main.fragment_graph.view.*
-import su.paradox.studio.apiscale.Data
-import su.paradox.studio.apiscale.DataDBHandler
-import su.paradox.studio.apiscale.FullscreenActivity
-import su.paradox.studio.apiscale.R
+import ru.paradox.studio.apiscale.Data
+import ru.paradox.studio.apiscale.DataDBHandler
+import ru.paradox.studio.apiscale.FullscreenActivity
+import ru.paradox.studio.apiscale.R
 import java.lang.Exception
 import java.text.SimpleDateFormat
 import java.util.*

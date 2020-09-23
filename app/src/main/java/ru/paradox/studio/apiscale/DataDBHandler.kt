@@ -1,11 +1,10 @@
-package su.paradox.studio.apiscale
+package ru.paradox.studio.apiscale
 
 import android.content.ContentValues
 import android.content.Context
 import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
 import java.text.SimpleDateFormat
-import kotlin.time.milliseconds
 
 class DataDBHandler (context: Context, name: String?,
                      factory: SQLiteDatabase.CursorFactory?, version: Int) :
